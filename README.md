@@ -175,7 +175,7 @@ Healthcare-Analytics/
 
 **Randhir Kumar**
 
-B.Tech, Metallurgical & Materials Engineering
+B.Tech, Metallurgical & Materials Engineering/
 National Institute of Technology Jamshedpur
 
 ---
